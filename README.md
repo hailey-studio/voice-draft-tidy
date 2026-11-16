@@ -49,6 +49,7 @@
 ```
 voice-draft-tidy/
 ├── SKILL.md                      主流程
+├── evals/                        测试用例和实际运行结果
 └── references/
     ├── examples.md               完整示例
     ├── ai-tone-checklist.md      交付前的 AI 腔检查
